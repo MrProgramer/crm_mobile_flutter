@@ -446,9 +446,10 @@ class _InvoiceEditorScreenState extends State<InvoiceEditorScreen> {
                           ),
                         ],
                       ),
-                    );
-                  },
-                ),
+                    ),
+                  );
+                },
+              ),
 
             const SizedBox(height: 20),
 
